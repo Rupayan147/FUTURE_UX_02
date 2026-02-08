@@ -1,44 +1,55 @@
 # Aevum: Mindfulness for the Modern Era
+> **Task 2: Future Interns UI/UX Design Internship**
 
-    Task 2: Future Interns UI/UX Design Internship
+**Aevum** is a premium, high-fidelity mental wellness application designed to simplify the journey toward clarity and habit-building. By merging deep data analytics with a "Zen-inspired" aesthetic, the app provides a focused, immersive experience.
 
-Aevum is a premium, high-fidelity mental wellness application designed to simplify the journey toward clarity and habit-building. By merging deep data analytics with a "Zen-inspired" aesthetic, the app provides a focused, immersive experience that helps users monitor their physical and mental well-being in one cohesive space.
-🎨 Visual Identity
+---
 
-The project follows a Luxurious Glassmorphism aesthetic, optimized for clarity and reduced cognitive load:
+## 📱 Project Showcase
 
-    Palette: A cinematic Deep Charcoal (#121212) backdrop paired with vibrant Sage Green (#B2AC88) and Warm Cream highlights.
+### 1. Splash Screen
+A minimal gateway featuring the Aevum infinity logo to establish immediate clarity and brand identity.
 
-    Aesthetic: High-blur frosted glass surfaces, 1px translucent borders, and organic, glowing gradients.
+![Splash Screen](splash%20screen.png)
 
-    Typography: Elegant sans-serif (Poppins/Inter) for a modern, sophisticated feel.
+### 2. Home Dashboard
+A personalized hub featuring an interactive mood selector and a prominent, glowing circular step tracker.
 
-📱 Detailed Screen Breakdown
+![Home Dashboard](Home.png)
 
-As part of the final submission, the following high-fidelity screens were developed:
+### 3. Wellness Statistics
+A data-rich view using vertical bar charts for movement and smooth line graphs to track sleep quality and heart rate.
 
-    1. Splash & Entry: A minimal gateway featuring the Aevum infinity logo and a focused "Begin Journey" call-to-action.
+![Wellness Stats](2nd%20screen.png)
 
-    2. Home Dashboard: A personalized greeting for Rupayan, including an interactive mood selector and a prominent, glowing circular step tracker.
+### 4. Meditation Immersion
+A distraction-free timer with integrated nature soundscapes and a rhythmic focus pulse.
 
-    3. Wellness Statistics: A data-rich view using vertical bar charts for movement and smooth line graphs to track sleep quality and heart rate.
+![Meditation Timer](Meditation.png)
 
-    4. Meditation Immersion: A distraction-free timer with integrated nature soundscapes (Misty Forest, Soft Rain) and a rhythmic focus pulse.
+### 5. Mood Trends & Insights
+Deep-dive analytics that visualize mood fluctuations over time and summarize journaling streaks.
 
-    5. Mood Trends & Insights: Deep-dive analytics that visualize mood fluctuations over time and summarize journaling streaks.
+![Insights](Insights.png)
 
-    6. Calendar & History: A structured view for navigating past sessions and reviewing personal journal entries through high-quality imagery.
+### 6. Journaling & Calendar
+A structured view for navigating past sessions and reviewing personal journal entries.
 
-    7. Profile & Awards: A gamified summary of achievements featuring metallic badges like "Early Riser" and "Forest Mind" to incentivize growth.
+![Calendar](Calender.png)
 
-🛠️ Tools & Stack
+### 7. Profile & Achievements
+A gamified summary of milestones featuring metallic awards to incentivize personal growth.
 
-    UI/UX Design: Figma 
+![Profile](Profile.png)
 
-    AI Collaboration: Stitch AI & Banani.ai for component logic.
+---
 
-    Motion Showcase: Jitter for the LinkedIn showcase reel and layer animations.
+## 🎨 Visual Identity
+* **Aesthetic:** High-fidelity Glassmorphism with deep background blurs.
+* **Palette:** Deep Charcoal (#121212) with Sage Green (#B2AC88) accents.
+* **Workflow:** Designed on a trackpad using Figma and Jitter.
 
-🚀 Submission Links
+---
 
-    LinkedIn Showreel: 
+**Designed with 💚 by Rupayan**
+*Student at RCC Institute of Technology (RCCIIT) | UI/UX Design Intern at Future Interns*
