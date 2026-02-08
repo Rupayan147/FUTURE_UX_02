@@ -1,46 +1,31 @@
 # Aevum: Mindfulness for the Modern Era
 > **Task 2: Future Interns UI/UX Design Internship**
 
-**Aevum** is a premium, high-fidelity mental wellness application designed to simplify the journey toward clarity and habit-building. By merging deep data analytics with a "Zen-inspired" aesthetic, the app provides a focused, immersive experience.
+**Aevum** is a premium, high-fidelity mental wellness application designed to simplify the journey toward habit-building. By merging deep data analytics with a "Zen-inspired" aesthetic, the app provides a focused, immersive experience.
 
 ---
 
 ## 📱 Project Showcase
 
-### 1. Splash Screen
-A minimal gateway featuring the Aevum infinity logo to establish immediate clarity and brand identity.
+| **1. Splash & Entry** | **2. Home Dashboard** |
+|:---:|:---:|
+| ![Splash Screen](splash%20screen.png) | ![Home Dashboard](Home.png) |
+| *Clean entry featuring the Aevum infinity logo.* | *Personalized hub with glowing step tracking.* |
 
-![Splash Screen](splash%20screen.png)
+| **3. Wellness Statistics** | **4. Meditation Immersion** |
+|:---:|:---:|
+| ![Wellness Stats](2nd%20screen.png) | ![Meditation Timer](Meditation.png) |
+| *Visualizing activity with smooth line graphs.* | *Immersive player with focus pulse.* |
 
-### 2. Home Dashboard
-A personalized hub featuring an interactive mood selector and a prominent, glowing circular step tracker.
+| **5. Mood Trends & Insights** | **6. Journaling & Calendar** |
+|:---:|:---:|
+| ![Insights](Insights.png) | ![Calendar](Calender.png) |
+| *Visualizing mood fluctuations over time.* | *A structured view for reviewing journal entries.* |
 
-![Home Dashboard](Home.png)
-
-### 3. Wellness Statistics
-A data-rich view using vertical bar charts for movement and smooth line graphs to track sleep quality and heart rate.
-
-![Wellness Stats](2nd%20screen.png)
-
-### 4. Meditation Immersion
-A distraction-free timer with integrated nature soundscapes and a rhythmic focus pulse.
-
-![Meditation Timer](Meditation.png)
-
-### 5. Mood Trends & Insights
-Deep-dive analytics that visualize mood fluctuations over time and summarize journaling streaks.
-
-![Insights](Insights.png)
-
-### 6. Journaling & Calendar
-A structured view for navigating past sessions and reviewing personal journal entries.
-
-![Calendar](Calender.png)
-
-### 7. Profile & Achievements
-A gamified summary of milestones featuring metallic awards to incentivize personal growth.
-
-![Profile](Profile.png)
+| **7. Profile & Achievements** |
+|:---:|
+| ![Profile](Profile.png) |
+| *Gamified milestones with metallic awards.* |
 
 ---
 
@@ -51,5 +36,4 @@ A gamified summary of milestones featuring metallic awards to incentivize person
 
 ---
 
-**Designed with 💚 by Rupayan**
-*Student at RCC Institute of Technology (RCCIIT) | UI/UX Design Intern at Future Interns*
+**Designed with 💚 by Rupayan** *Student at RCC Institute of Technology (RCCIIT) | UI/UX Design Intern at Future Interns*
